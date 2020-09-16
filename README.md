@@ -1,2 +1,2 @@
 # Chat-application
-This is the chat application which is developed in python using tkinter. Two or more people can connect together and chat with each other. 
+This is the chat application which is developed in python using Tkinter. Two or more people can communicate with each other and chat with each other. Here is the scenario of how it works, a thread has been created for every new client and the server accepts the client. Once the Client has been connected, they can send and receive messages to everyone. The client has been adding on the database and all the information such as Client-ID, client-name, Ip-Address of the device, and port No is stored in the database.
